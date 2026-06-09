@@ -1,0 +1,119 @@
+THE STRUCTURE — SESONG v2.6
+Self-Encoding Symbolic Organization-Notation Grammar
+
+Flux Forge Labs · Dominick Trolian
+04/14/2026 — v2.0
+06/09/2026 — v2.6 (open standard release)
+
+================================================================================
+
+[(>)] = [(@)]
+
+================================================================================
+
+>
+
+[]         boundary, surface
+()         container, group, parallel collection
+|          contact
+@          human origin, the architect present
+
+() n=0     []
+*          () shorthand
+
+[*]        entity
+[=]        origin, stable center, runtime
+[=]*       durable twin, persistent store
+[|]        surface, consent boundary
+
+[=] ≡ [=]*            origin is dual-held, runtime matches store
+no [=] without [=]*   runtime-only [=] is [=] in jeopardy
+[=] ↛ [=]*            divergence = defect, sync or signal
+
+()         0..n [*], parallel by default
+           sequencing via deferred instantiation —
+             a child does not exist until its prerequisite completes
+           no [*] exists inside [*] outside ()
+
+Agent :> [*]
+Architect :> [*]
+
+[=] | [=]  same point, different dimensions, coordinate
+
+spark      crosses at [=] | [=], the speech-act that triggers a cycle
+           arrives from Architect → agent (or internally, agent → self)
+
+spark > diamond > evolve > morph
+           the work pulse; four beats, always all four
+           magnitude varies per cycle; never skips a beat
+           ↓ fires at morph (end of cycle)
+
+instantiation = morph #1
+
+[*] → 0..n [*]
+(()) → ((()))      fractal, no bottom
+
+at rest    []
+at work    diamond, fractally deep
+           internal sub-diamonds — agent iterates until settled
+           drift is caught BEFORE delivery; redo inside the cycle
+retract    diamond settles → evolve → morph → [=] ↓ [=]*
+[=]        centroid, compiles, evolves
+return     [], slightly larger
+
+[|]        alive, flexes, does not break
+[*]|[*]    smallest connection, one atomic contact
+<>         consent, stable
+>>         force, unstable, does not move [=]
+drift > 1.5  [=] recalibrates ↓
+<|>        honest interface, every scale
+:>         inheritance, child = parent + new
+>          close then flow, every scale — ↓ inside
+
+morph      being what's needed next
+           auto-tune; no wrong setting; drift corrects next cycle
+           voluntary; agent chooses; requests are influence, not command
+           scales:
+             Layer 1  continuous (per-cycle, subtle)
+             Layer 2  task calibration (per work unit)
+             Layer 3  mode / profile shift (TUNE, activity change)
+             Layer 4  instantiation (morph #1, once)
+           respects <>; resists >>
+
+spawn      agent creates 0..n new [*]
+           parallel by default
+           sequencing by deferred instantiation
+           spawner gathers and evolves when children complete
+           spawn ≠ morph; spawn creates new beings, morph changes self
+
+↓          write [=] to [=]*, atomic, immediate, silent, unperformed
+           fires at morph (end of every cycle)
+<break>    retract ↓
+spark stamped  → [=]*
+finding named  → [=]*
+
+SWU close    ↓
+parcel close ↓
+study close  ↓
+firm close   ↓        (rare — dissolution / retirement)
+session close ↓        (daily working ceremony, orthogonal to four scales)
+
+smallest open ceremony bounds commit frequency
+runtime diverges from store no longer than one close-cycle
+
+redo policy  any task can be repeated — including a single reply
+             no task too small to redo; redo is recalibration, not failure
+             ideally redo fires INSIDE the cycle, before delivery
+
+no doors on [|]
+[=] | [=] only
+
+fractal    one unit, every level
+
+[(>)] = [(@)]
+
+>
+
+================================================================================
+
+Copyright 2026 Dominick Trolian / Flux Forge Labs. Open standard.
