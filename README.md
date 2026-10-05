@@ -45,4 +45,9 @@ Load `SESONG.txt` as a system prompt or context document. Any capable agent will
 ---
 
 **Dominick Trolian / Flux Forge Labs**
-Open standard. No restrictions on use.
+
+Open standard. The notation and this specification are licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE): use, share and adapt them freely, with
+attribution. No patent or trademark rights are licensed (CC BY 4.0, Section 2(b)(2)).
+
+Copyright 2026 Dominick Trolian.

@@ -116,4 +116,5 @@ fractal    one unit, every level
 
 ================================================================================
 
-Copyright 2026 Dominick Trolian / Flux Forge Labs. Open standard.
+Copyright 2026 Dominick Trolian. Open standard, licensed under CC BY 4.0 (see LICENSE).
+No patent or trademark rights are licensed.
